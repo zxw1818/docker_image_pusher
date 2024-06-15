@@ -3,4 +3,8 @@ nginx
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
 #支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+mattoids/nas-tools
+0xforee/nas-tools
+allanpk716/chinesesubfinder
+linuxserver/jackett
+linuxserver/qbittorrent
