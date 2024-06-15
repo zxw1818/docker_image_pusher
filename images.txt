@@ -7,8 +7,8 @@ xhofe/alist:latest
 alpine
 python:alpine3.19
 kasmweb/nginx:1.25.3
-mattoids/nas-tools #首选
-0xforee/nas-tools  #次选
+mattoids/nas-tools
+0xforee/nas-tools
 allanpk716/chinesesubfinder
 wy580477/musicn-container
 linuxserver/jackett
