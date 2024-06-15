@@ -3,14 +3,7 @@ nginx
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
 #支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
 alpine
-python:alpine3.19
-kasmweb/nginx:1.25.3
-mattoids/nas-tools
-0xforee/nas-tools
-allanpk716/chinesesubfinder
-wy580477/musicn-container
 linuxserver/jackett
 linuxserver/qbittorrent
 19970688/nastools-bt  
