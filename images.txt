@@ -13,3 +13,4 @@ allanpk716/chinesesubfinder
 wy580477/musicn-container
 linuxserver/jackett
 linuxserver/qbittorrent
+19970688/nastools-bt  
